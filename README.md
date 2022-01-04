@@ -1,3 +1,3 @@
-TA Name: Louis Ta
+**TA Name:** Louis Ta
 
-Your Name:
+**Your Name:** 
